@@ -23,7 +23,7 @@ def cached_model():
 
 model = cached_model()
 
-st.title("Segment lungs")
+st.title("lungs Segmentation")
 
 # uploaded_file = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg"])
 
